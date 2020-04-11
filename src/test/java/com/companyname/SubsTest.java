@@ -8,6 +8,7 @@ public class SubsTest {
 	{
 		System.out.println("========substraction done===========");
 		System.out.println("========new adet 'first===========");
+		System.out.println("========new adet 'second    i have added checks===========");
 	}
 
 }
